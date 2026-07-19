@@ -1,0 +1,10 @@
+Timestamp,Image Name,Prediction,Confidence (%)
+2026-07-02 14:32:44,ISIC_0033579.jpg,Benign Keratosis,25.03
+2026-07-02 14:33:40,ISIC_0033579.jpg,Benign Keratosis,25.03
+2026-07-02 14:33:42,ISIC_0033579.jpg,Benign Keratosis,25.03
+2026-07-02 14:33:43,ISIC_0033579.jpg,Benign Keratosis,25.03
+2026-07-02 14:33:44,ISIC_0033579.jpg,Benign Keratosis,25.03
+2026-07-02 14:33:46,ISIC_0033579.jpg,Benign Keratosis,25.03
+2026-07-02 14:33:47,ISIC_0033579.jpg,Benign Keratosis,25.03
+2026-07-02 14:42:13,ISIC_0033573.jpg,Basal Cell Carcinoma,30.29
+2026-07-15 09:55:36,ISIC_0024325.jpg,Melanocytic Nevi,27.60
